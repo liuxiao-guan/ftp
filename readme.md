@@ -20,8 +20,8 @@
 
 #### 四.系统工作流程图
 
-![alt text](F:\project\C%23\ftp\系统工作流程图.png "Title")
+![image text](https://github.com/liuxiao-guan/ftp/blob/master/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 #### 五.系统界面图（因为主要完成功能，界面略简陋）
 
-![alt text](F:\project\C%23\ftp\系统界面图.png)
+![image text](https://github.com/liuxiao-guan/ftp/blob/master/%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A2%E5%9B%BE.png)
